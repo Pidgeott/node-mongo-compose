@@ -5,7 +5,7 @@ Este repositório contém o código-fonte de um sistema CRUD (Create, Read, Upda
 A aplicação foi projetada para ser facilmente conteinerizada através do Docker Compose, separando as responsabilidades entre backend e frontend, garantindo uma maior modularidade e facilidade de implantação.
 
 
-## <img src="./img/gon.jpg" alt="imagem hxh - cadastro lista" width="30"> Imagem da tela de cadastro
+## Imagem da tela de cadastro - <img src="./img/gon.jpg" alt="imagem hxh - cadastro lista" width="50">
 
 
  
